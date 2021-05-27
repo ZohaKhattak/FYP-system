@@ -1,6 +1,6 @@
-### SERVER side of Project
+# SERVER side of Project
 
-# index.js
+### index.js
 
 - This contains connection to the database.
 - API for Reading data from tables in database.
@@ -11,8 +11,19 @@
 .....
 
 
-# For installing node_modules
+### For installing node_modules
 
 npm i node-modules
 
+### Other
+
+npm i bcrypt
+
+npm i jsonwebtoken
+
+npm i cookie-parser
+
+npm i body-parser
+
+npm i cors
 
