@@ -1,6 +1,6 @@
-## SERVER side of Project
+### SERVER side of Project
 
-#index.js
+# index.js
 
 - This contains connection to the database.
 - API for Reading data from tables in database.
